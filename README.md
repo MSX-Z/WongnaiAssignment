@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="/resource/Screen_Capture" style="width: 30%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/resource/Screen_Capture.png" style="width: 30%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/resource/Screen_Gif.gif" style="width: 30%;">
 
 <br/>
