@@ -10,7 +10,9 @@
 
 <br/>
 
-<img src="/resource/Screen_Capture.png" style="width: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/resource/Screen_Capture.png" width="400" height="800">
+
+<br/>
 
 ### API
 
