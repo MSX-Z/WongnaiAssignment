@@ -10,7 +10,8 @@
 
 <br/>
 
-<img src="/resource/Screen_Capture.png" width="400" height="800">
+<img src="/resource/Screen_Capture.png" width="400" height="800">&nbsp;
+<img src="/resource/Screen_Gif.gif" width="400" height="800">
 
 <br/>
 
